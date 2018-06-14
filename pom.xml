@@ -85,7 +85,7 @@
   </issueManagement>
 
   <properties>
-    <mojo.java.target>1.5</mojo.java.target>
+    <mojo.java.target>1.6</mojo.java.target>
     <mavenVersion>2.2.1</mavenVersion>
     <wagonVersion>1.0-beta-6</wagonVersion>
     <doxiaVersion>1.1</doxiaVersion>
